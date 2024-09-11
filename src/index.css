@@ -1,0 +1,8 @@
+.pages{
+    width: 100%;
+}
+.pactive{
+    background-color: rgb(144, 238, 204);
+    border-radius: 5px;
+    /* color: white; */
+}
